@@ -6,6 +6,7 @@ I am a Java developer specializing in Java Spring Boot, MySQL, microservices, Ma
 - [Sweet Shop](https://iamravimaurya.github.io/brijwasi/)
 - [Portfolio](https://iamravimaurya.github.io/portfolio/)
 - [Java Blog](https://ravi-java-blog.netlify.app/)
+- [Jekyll Stratic Website](https://www.bageshwardhammaharastrasevasamiti.com/)
 
 ## 🌱 Currently Learning
 - React.js for front-end development
